@@ -177,6 +177,7 @@ header a {
 
         #gallery {
             height: 500px;
+            
         }
 
         .cntr-imgs {
@@ -187,8 +188,9 @@ header a {
             border-color: orangered;
             border-width: 1px;
             border-radius: 50%;
-            margin: 0 auto;
+            margin: 80px;
             position: relative;
+            display: inline-block;
     
         }
 
@@ -228,10 +230,23 @@ header a {
             height: 100%;
             border-radius: 50%;
         }
+        
+        /* map */
 
-        div > .photo-1 {
-            float: left;
+        #map-cntr h2 {
+            color: #2e2e2e;
+            margin: 30px;
         }
+
+         #map-cntr {
+             margin: 0 auto;
+             height: 250px;
+         }
+         
+         map {
+             height: 100%;
+             width: 100%;
+         }
         
 
     
