@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:wght@300&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none; 
+}
+
+
+ h1,h2 { 
+    font-family: Oswald,sans-serif;
+    letter-spacing: 3px;
+    color: #333333;
+    }
+
+
+
+p {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 350;
+    color: #333333;
+}
+
+/* logo */
+
+#logo {
+    float: left;
+    font-size: 300%;
+    margin-left: 25px;
+    font-style: oblique;
+    text-transform: uppercase;
+    
+}
+
+
+/* navigation links */
+
+header a {
+    text-decoration: none;
+}
+
+#navmenu a {
+    font-size: 140%;
+    letter-spacing: 3px;
+    color: #333333;
+    
+}
+
+#navmenu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+    
+    
+}
+
+#navmenu, #logo {
+   line-height: 80px;
+}
+#navmenu a:hover {
+    border-bottom: 2px solid;
+}
+
+.stay {
+    border-bottom: 2px solid;
+}
+
+/* Main image */
+
+#image-section {
+    position: relative;
+    overflow: hidden;
+    min-height: 650px;
+    width: 100%;
+}
+
+#main-image {
+    background: url(../images/girl-cable-push-up.webp);
+    min-height: 650px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* zooming the image in */ 
+    animation-name: image-zoom;
+    animation-fill-mode: forwards;
+    animation-duration: 3s;
+    }
+     
+    /* zoom for the image*/ 
+
+    @keyframes image-zoom {
+         from {
+             transform: scale(0.5);
+         }
+         to {
+             transform: scale(1);
+         }
+    }
+
+    /* join button inside the main image */
+
+    
+
+
+
+    
+
