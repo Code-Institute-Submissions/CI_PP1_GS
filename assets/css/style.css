@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400&family=Roboto:wght@300&display=swap");
 
 * {
     margin: 0;
@@ -7,20 +7,28 @@
 }
 
 
- h1,h2 { 
+ h1,h2,h3 { 
     font-family: Oswald,sans-serif;
     letter-spacing: 3px;
-    color: #333333;
-    }
+    color: whitesmoke;
+}
 
-
+h2 {
+    font-size: 200%;
+}
 
 p {
     font-family: Roboto;
-    font-size: 20px;
-    font-weight: 350;
-    color: #333333;
+    font-size: 18px;
+    color: whitesmoke;
 }
+
+#bgr-color {
+    min-height: 100px;
+    width: 100%;
+    background-color: #2e2e2e;
+}
+
 
 /* logo */
 
@@ -29,7 +37,9 @@ p {
     font-size: 300%;
     margin-left: 25px;
     font-style: oblique;
-    text-transform: uppercase;
+    text-transform: uppercase; 
+    color: whitesmoke;
+    
     
 }
 
@@ -41,9 +51,10 @@ header a {
 }
 
 #navmenu a {
-    font-size: 140%;
+    font-size: 150%;
     letter-spacing: 3px;
-    color: #333333;
+    color: whitesmoke;
+    
     
 }
 
@@ -55,15 +66,17 @@ header a {
     
 }
 
-#navmenu, #logo {
+
+#navmenu, .logo {
    line-height: 80px;
 }
+
 #navmenu a:hover {
     border-bottom: 2px solid;
 }
 
 .stay {
-    border-bottom: 2px solid;
+    border-bottom: orangered 2px solid;
 }
 
 /* Main image */
@@ -74,6 +87,8 @@ header a {
     min-height: 650px;
     width: 100%;
 }
+
+
 
 #main-image {
     background: url(../images/girl-cable-push-up.webp);
@@ -86,23 +101,142 @@ header a {
     /* zooming the image in */ 
     animation-name: image-zoom;
     animation-fill-mode: forwards;
-    animation-duration: 3s;
+    animation-duration: 7s;
     }
      
     /* zoom for the image*/ 
 
     @keyframes image-zoom {
          from {
-             transform: scale(0.5);
+             transform: scale(1);
          }
          to {
-             transform: scale(1);
+             transform: scale(1.15);
          }
     }
 
-    /* join button inside the main image */
+    /* motivational cit. inside the main image */
+
+    .container h2{
+        position: relative;
+        text-align: center;
+        color: whitesmoke;
+    }
+
+    .motive {
+        position: absolute;
+        top: 30%;
+        left: 30%;
+        font-size: 250%;
+        text-transform: capitalize;
+    }
+
+    /* welcome */
+
+    #welcome {
+        min-height: 400px;
+        margin: 100px 90px 0 90px;
+        
+    }
+
+    .wlcm-gs {
+        background-color: #2e2e2e;
+        border-radius: 20px;
+        float: left;
+        padding: 30px;
+        width: 35%;
+        position: relative;
+        border: orangered 2px solid;
+        
+         }
+
+         .offering {
+            background-color: #2e2e2e;
+            border-radius: 20px;
+            float: left;
+            padding: 30px;
+            width: 35%;
+            position: relative;
+            margin-left: 250px;
+            border: orangered 2px solid;
+         }
+        
+         
+
+         .offering li {
+            list-style-type: none;
+            color: whitesmoke;
+            font-size: 20px;
+        }
+
+        .wlcm-gs, .offering {
+            line-height: 35px;
+        }
+        
+        /* gallery */
+
+        #gallery {
+            height: 500px;
+        }
+
+        .cntr-imgs {
+            width: 150px;
+            height: 150px;
+            padding: 20px;
+            border-style: solid;
+            border-color: orangered;
+            border-width: 1px;
+            border-radius: 50%;
+            margin: 0 auto;
+            position: relative;
+    
+        }
+
+        .photo-1 {
+            background: url(../images/girl-dumbbell-press.jpeg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            height: 100%;
+            border-radius: 50%;
+            
+        }
+
+        .photo-2 {
+            background: url(../images/girl-ropes.webp);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            height: 100%;
+            border-radius: 50%;
+        }
+
+        .photo-3 {
+            background: url(../images/guy-biceps.jpeg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            height: 100%;
+            border-radius: 50%;
+        }
+
+        .photo-4 {
+            background: url(../images/core-workout.jpeg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            height: 100%;
+            border-radius: 50%;
+        }
+
+        div > .photo-1 {
+            float: left;
+        }
+        
 
     
+
+
 
 
 
