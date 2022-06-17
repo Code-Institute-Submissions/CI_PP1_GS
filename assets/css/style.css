@@ -92,6 +92,7 @@ header a {
 
 
 #main-image {
+    margin: 0 auto;
     background: url(../images/girl-cable-push-up.webp);
     min-height: 650px;
     width: 100%;
@@ -125,6 +126,7 @@ header a {
     }
 
     .motive {
+        margin: 0 auto;
         position: absolute;
         top: 30%;
         left: 30%;
@@ -135,48 +137,52 @@ header a {
     /* welcome */
 
     #welcome {
-        height: 400px;
         
-        
-    }
-
-    .wel {
-        border-radius: 20px;
-        min-height: 200px;
-        position: relative;
-        border: orangered 2px solid;
-        margin: 100px;
-        padding: 30px;
-        width: 30%;
-        display: inline-block;
-        line-height: 30px;
+        margin: 50px 0;
+        display: flex;
         
         }
 
+    .pa-we {
+        margin: 0 80px;
+        padding: 15px;
+        position: relative;
+        display: inline-block;
+        border: orangered 1px solid;
+        border-radius: 25px;
+        line-height: 35px;
+    }
+
+    #wlcm-gs {
+        height: 300px;
+    }
+
+    #offering {
+       height: 250px;
+    }
         
         
-        .go-contact {
+         .go-program {
+            margin: 7px;
              background-color: orangered;
              border-radius: 50px;
              font-size: 30px;
              text-decoration: none;
              color: whitesmoke;
-             padding: 7px 30px;
-             margin-left: 33%;
+             padding: 2px 30px;
+             
+              }
 
-             }
 
-    
-
-         .wlcm-gs h2,h3,p {
+         #wlcm-gs h2,h3,p {
              color: #2e2e2e;
          }
         
-         .offering h2 {
+         #offering h2 {
              color: #2e2e2e;
          }
 
-         .offering li {
+         #offering li {
             list-style-type: none;
             color: #2e2e2e;
             font-size: 20px;
@@ -187,11 +193,14 @@ header a {
         /* gallery */
 
         #gallery {
-            height: 350px;
+        height: 350px;
+        margin: 50px 0;
+        display: flex;
             
         }
 
         .cntr-imgs {
+            
             width: 150px;
             height: 150px;
             padding: 20px;
@@ -210,6 +219,7 @@ header a {
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
+            
             height: 100%;
             border-radius: 50%;
             
@@ -220,6 +230,7 @@ header a {
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
+           
             height: 100%;
             border-radius: 50%;
         }
@@ -229,6 +240,7 @@ header a {
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
+            
             height: 100%;
             border-radius: 50%;
         }
@@ -238,6 +250,7 @@ header a {
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
+            
             height: 100%;
             border-radius: 50%;
         }
@@ -251,8 +264,8 @@ header a {
 
          #map-cntr {
              margin: 0 auto;
-             height: 250px;
-             margin-bottom: 75px;
+             height: 320px;
+             
          }
          
          map {
@@ -288,36 +301,40 @@ header a {
 
         /* Programmes */
 
+        #pic-prgm {
+            height: 500px;
+            margin: 0 auto;
+            display: flex;
+            
+            
+        }
+
     #prgm-text, h2 {
         color: #2e2e2e;
     }
     
-    #prgm-set {
+    .prgm-set {
         height: 200px;
         margin: 50px;
     }
 
-    #prgm-text {
+    .prgm-text {
         text-align: center;
         margin: 0 auto;
         padding: 20px 300px;
         line-height: 35px;
     }
 
-    #pic-prgm {
-        height: 500px;
-        
-        
-    }
 
     .prgmx {
         height: 250px;
         width: 250px;
         display: inline-block;
-        left: 50%;
-        margin-left: 80px;
+        left: 55%;
+        margin: 50px;
         text-align: center;
         border: orangered 1px solid;
+        border-radius: 15px;
     }
 
         .prgmx h2 {
@@ -333,7 +350,7 @@ header a {
 
         
      .zoom:hover {
-        transform: scale(1.5);
+        transform: scale(1.3);
      }
         
         
@@ -367,6 +384,17 @@ header a {
         background-size: cover;
     }
     
+    .go-contact {
+        margin-top: 80%;
+        margin-left: 45%;
+         background-color: orangered;
+         border-radius: 50px;
+         font-size: 30px;
+         text-decoration: none;
+         color: whitesmoke;
+         padding: 5px 30px;
+         
+          }
         
 
     
