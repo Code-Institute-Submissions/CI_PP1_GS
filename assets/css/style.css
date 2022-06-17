@@ -20,9 +20,11 @@ h2 {
 p {
     font-family: Roboto;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 750;
     color: whitesmoke;
 }
+
+
 
 #bgr-color {
     min-height: 100px;
@@ -275,12 +277,15 @@ header a {
 
          /* footer */
 
+         
+         
 
     .footer-bgrd {
         background-color: #2e2e2e;
         height: 150px;
         position: relative;
         text-align: center;
+        bottom: 0;
         
 }
 
@@ -316,6 +321,12 @@ header a {
     .prgm-set {
         height: 200px;
         margin: 50px;
+        
+    }
+
+    .bg-col {
+        background-color: rgba(255, 68, 0, 0.366);
+        border-radius: 20px;
     }
 
     .prgm-text {
@@ -323,6 +334,7 @@ header a {
         margin: 0 auto;
         padding: 20px 300px;
         line-height: 35px;
+        
     }
 
 
@@ -395,7 +407,91 @@ header a {
          padding: 5px 30px;
          
           }
-        
+
+          /* About page */
+
+          #about {
+            margin: 0 auto;
+            height: 1000px;
+          }
+
+          .row {
+            display: flex;
+          }
+          
+          .column {
+            flex: 50%;
+          }
+
+          #abt-img {
+            background: url(../images/about-image.jpeg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 900px;
+            }
+
+            .img-sty {
+                    margin: 20px;
+                    padding: 25px;
+                    border-style: solid;
+                    border-color: orangered;
+                    border-width: 2px;
+                    border-radius: 25px;
+                    }
+            
+            .txt-sty {
+                text-align: center;
+                margin-top: 60px;
+                line-height: 30px;
+            }
+
+            .spc {
+                margin-top: 200px;
+            }
+
+           .three-s { 
+            width: 100px;
+            height: 100px;
+            padding: 10px;
+            border-style: solid;
+            border-color: orangered;
+            border-width: 1px;
+            border-radius: 50%;
+            margin: 80px;
+            position: relative;
+            
+           }
+
+           #mind {
+            background: url(../images/the-mind.jpeg);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 100%;
+            border-radius: 50%;
+           }
+
+           #phys {
+            background: url(../images/the-body.jpeg);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 100%;
+            border-radius: 50%;
+
+           }
+
+           #food {
+            background: url(../images/the-food.jpeg);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 100%;
+            border-radius: 50%;
+           }
+         
+          
 
     
 
