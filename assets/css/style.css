@@ -147,8 +147,8 @@ header a {
         }
 
     .pa-we {
-        margin: 0 auto;
-        padding: 15px;
+        margin: 0 70px auto;
+        padding: 30px;
         position: relative;
         display: flex;
         align-items: center;
@@ -327,8 +327,15 @@ header a {
     .prgm-set {
         height: 200px;
         margin: 50px;
-        
     }
+
+     #prgm-pri { 
+        margin: 50px;
+        padding: 20px 200px;
+
+     }
+        
+    
 
     .bg-col {
         background-color: rgba(255, 68, 0, 0.366);
@@ -381,28 +388,28 @@ header a {
     #prg-1 {
         background:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(../images/weight-loss..webp);
         background-position: center;
-        background-repeat: no repeat;
+        background-repeat: no-repeat;
         background-size: cover;
     }
 
     #prg-2 {
         background:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(../images/muscle-tone.webp);
         background-position: center;
-        background-repeat: no repeat;
+        background-repeat: no-repeat;
         background-size: cover;
     }
 
     #prg-3 {
         background:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(../images/get-fit.webp);
         background-position: center;
-        background-repeat: no repeat;
+        background-repeat: no-repeat;
         background-size: cover;
     }
 
     #prg-4 {
         background:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(../images/senior-fit.jpeg);
         background-position: center;
-        background-repeat: no repeat;
+        background-repeat: no-repeat;
         background-size: cover;
     }
     
@@ -421,6 +428,14 @@ header a {
          color: whitesmoke;
          padding: 5px 30px;
          
+          }
+
+         .prgm-price {
+            
+        text-align: center;
+        margin: 0 auto;
+        padding: 20px 150px;
+        line-height: 35px;
           }
 
           /* About page */
@@ -577,7 +592,13 @@ header a {
             height: 200px;
             width: 75%;
            }
+
+           /* Media Queries */
          
+
+           @media screen and (max-width: 600px) {
+
+           }
           
 
     
