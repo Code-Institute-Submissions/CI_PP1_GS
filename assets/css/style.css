@@ -4,8 +4,9 @@
     margin: 0;
     padding: 0;
     border: none; 
+    box-sizing: border-box;
+   
 }
-
 
 
  h1,h2,h3 { 
@@ -26,15 +27,7 @@ p {
 }
 
 
-
-#bgr-color {
-    min-height: 100px;
-    width: 100%;
-    background-color: #2e2e2e;
-}
-
-
-/* logo */
+/* logo  & navigation links*/
 
 #logo {
     float: left;
@@ -44,11 +37,16 @@ p {
     text-transform: uppercase; 
     color: whitesmoke;
     
-    
-}
+    }
+
+    #bgr-color {
+        min-height: 100px;
+        width: 100%;
+        background-color: #2e2e2e;
+    }
 
 
-/* navigation links */
+
 
 header a {
     text-decoration: none;
@@ -89,7 +87,7 @@ header a {
     position: relative;
     overflow: hidden;
     min-height: 650px;
-    width: 100%;
+   width: 100%;
 }
 
 
@@ -160,7 +158,7 @@ header a {
     }
 
     #wlcm-gs {
-        height: 300px;
+        height: 250px;
     }
 
     #offering {
@@ -329,11 +327,7 @@ header a {
         margin: 50px;
     }
 
-     #prgm-pri { 
-        margin: 50px;
-        padding: 20px 200px;
-
-     }
+     
         
     
 
@@ -430,13 +424,6 @@ header a {
          
           }
 
-         .prgm-price {
-            
-        text-align: center;
-        margin: 0 auto;
-        padding: 20px 150px;
-        line-height: 35px;
-          }
 
           /* About page */
 
@@ -596,8 +583,11 @@ header a {
            /* Media Queries */
          
 
-           @media screen and (max-width: 600px) {
+           @media screen and  (max-width: 375px) {
 
+                   
+
+                     
            }
           
 
