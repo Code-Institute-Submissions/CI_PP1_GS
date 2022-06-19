@@ -5,7 +5,8 @@
     padding: 0;
     border: none; 
     box-sizing: border-box;
-   
+    
+    
 }
 
 
@@ -141,6 +142,7 @@ header a {
         
         margin: 50px 0;
         display: flex;
+        width: 100%;
         
         }
 
@@ -159,6 +161,7 @@ header a {
 
     #wlcm-gs {
         height: 250px;
+        
     }
 
     #offering {
@@ -323,15 +326,13 @@ header a {
     }
     
     .prgm-set {
-        height: 200px;
+        height: 300px;
         margin: 50px;
+        
     }
 
      
-        
-    
-
-    .bg-col {
+        .bg-col {
         background-color: rgba(255, 68, 0, 0.366);
         border-radius: 20px;
     }
@@ -341,6 +342,7 @@ header a {
         margin: 0 auto;
         padding: 20px 300px;
         line-height: 35px;
+        
         
     }
 
@@ -461,6 +463,7 @@ header a {
                 text-align: center;
                 margin-top: 60px;
                 line-height: 30px;
+                padding: 0 30px;
             }
 
             .spc {
@@ -580,16 +583,75 @@ header a {
             width: 75%;
            }
 
+           /* 404-Error-Page */
+
+            #error{
+            text-align: center;
+            padding: 35%;
+            margin-left: 25%;
+}
+
            /* Media Queries */
          
 
-           @media screen and  (max-width: 375px) {
+           @media screen and  (max-width: 695px) {
 
-                   
 
-                     
-           }
+            #navmenu, #logo {
+                line-height: 150px;
+                float: left;
+                margin-left: 20px;
+            }
+           
+            #logo {
+                font-size: 30px;
+
+            }
+
+            #navmenu a {
+                display: contents;
+                font-size: 20px;
+                  
+                
+            }
+
+            .stay {
+                display: none;
+            }
+
+        }
+
+           @media screen and  (max-width: 570px) {
+    #logo {
+        font-size: 25px;
+    }
+
+    #navmenu a {
+        display: contents;
+        font-size: 15px;
+         
+    }
+}
           
+@media screen and  (max-width: 489px) {
+    #logo {
+        font-size: 15px;
+    }
+
+    #navmenu a {
+        display: inline-block;
+        font-size: 10px;
+         }
+
+         .stay{
+            display: none;
+         }
+
+    #main-image {
+        height: 50px;
+        margin: 0 ;
+    }
+}
 
     
 
