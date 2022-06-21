@@ -77,16 +77,16 @@ The contact page wants to give the user the chance to get in touch with the pers
 #### HTML:
 * [W3C validator](https://validator.w3.org/)
 
-* The validator reveald 4 errors and 2 warnings in the index.html, 3 errors in the program.html, 3 errors in the about.html and 2 errors in the contact.html.
+* The validator revealed 4 errors and 2 warnings in the index.html, 3 errors in the program.html, 3 errors in the about.html and 2 errors in the contact.html.
 
 #### CSS:
 * [W3C jigsaw validator](https://jigsaw.w3.org/css-validator/)
 
-* The validator reveald 1 error.
+* The validator revealed 1 error.
 
 ### Fixing error and warning
 
-* All errors and warnings have been fixed exept 1 error in the index.html. The value for width of the Map has a '%' which I find to be useful for a better adaptation on different screen sizes. It also worked on the 'Love Running' project.
+* All errors and warnings have been fixed except 1 error in the index.html. The value for width of the Map has a '%' which I find to be useful for a better adaptation on different screen sizes. It also worked on the 'Love Running' project.
 
 
 ## Deployment
