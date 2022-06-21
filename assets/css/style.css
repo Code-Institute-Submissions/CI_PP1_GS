@@ -143,11 +143,12 @@ header a {
         margin: 50px 0;
         display: flex;
         width: 100%;
+        padding: 50px;
         
         }
 
     .pa-we {
-        margin: 0 70px auto;
+        margin: 0 auto;
         padding: 30px;
         position: relative;
         display: flex;
@@ -592,67 +593,18 @@ header a {
 }
 
            /* Media Queries */
-         
 
-           @media screen and  (max-width: 695px) {
-
-
-            #navmenu, #logo {
-                line-height: 150px;
-                float: left;
-                margin-left: 20px;
-            }
-           
-            #logo {
-                font-size: 30px;
-
+          @media screen and (max-width:1035px)
+             {
+                #wlcm-gs p {
+                    font-size: 14px;
+                }
+    
             }
 
-            #navmenu a {
-                display: contents;
-                font-size: 20px;
-                  
-                
-            }
+            @media screen and (max-width: 900px)
 
-            .stay {
-                display: none;
-            }
-
-        }
-
-           @media screen and  (max-width: 570px) {
-    #logo {
-        font-size: 25px;
-    }
-
-    #navmenu a {
-        display: contents;
-        font-size: 15px;
-         
-    }
-}
           
-@media screen and  (max-width: 489px) {
-    #logo {
-        font-size: 15px;
-    }
-
-    #navmenu a {
-        display: inline-block;
-        font-size: 10px;
-         }
-
-         .stay{
-            display: none;
-         }
-
-    #main-image {
-        height: 50px;
-        margin: 0 ;
-    }
-}
-
     
 
 
