@@ -413,7 +413,7 @@ header a {
     }
     
     .-center {
-        margin: 0 auto;
+        margin-bottom: 50px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -708,14 +708,50 @@ header a {
                 }
 
                 .cntr-imgs {
-                    margin: 10px auto;
+                    margin: 5px auto;
                 }
 
-                
+                 }
 
-                
-        }
+                 @media screen and (max-width: 555px)
+                 {
+                    .inline-sec {
+                        display: inline-block;
+                        margin-bottom: 50px;
+                    }
+
+                    .align-p {
+                        margin: 50px auto;
+                    }
+
+                    .prgmx {
+                        height: 150px;
+                        width: 150px;
+                 }
+
+                 .prgm-text {
+                    line-height: 25px;
+                 }
+
+                 #logo {
+                    font-size: 45px;
+                 }
+
+                 #navmenu a{
+                    font-size: 10px;
+                    
+                 }
+                 
+                 #wlcm-gs {
+                    height: 450px;}
+                 }
           
+
+                 @media screen and (max-width:500px){
+                    .img-sty {
+                        display: none;
+                    }
+                 }
     
 
 
