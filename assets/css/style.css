@@ -530,7 +530,7 @@ header a {
            }
 
            form {
-            margin: 0 auto;
+            margin: 30px auto;
             box-sizing: border-box;
             width: 70%;
             height: 500px;
@@ -575,16 +575,16 @@ header a {
            }
 
            .get-qst {
-            text-align: left;
+            text-align: center;
             margin-top: 200px;
             padding-bottom: 30px;
             width: 100%;
            }
 
            .get-par {
-            text-align: left;
-            height: 200px;
-            width: 75%;
+            text-align: center;
+            margin: 40px;
+            width: 100%;
            }
 
            /* 404-Error-Page */
