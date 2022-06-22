@@ -434,7 +434,7 @@ header a {
 
           #about {
             margin: 0 auto;
-            height: 1000px;
+            min-height: 85vh;
           }
 
           .row {
@@ -520,7 +520,7 @@ header a {
            /* Form */
 
            #cnt-sf {
-            height: 750px;
+            min-height: 85vh;
            }
 
            .get-t {
@@ -599,7 +599,21 @@ header a {
 
            @media screen and (max-width: 1300px)
            {
+             .column {
+                   max-width: 100%;
+                   
+              }
 
+              .img-alg {
+                display: inline-block;
+              }
+
+              .row {
+                flex-direction: column;
+                 
+                    display: inline-table;
+                
+              }
             
             .prgmx {
                 display: inline-block;
@@ -608,6 +622,10 @@ header a {
                 width: 200px;
                 margin: 0 auto;
              }
+             .align-form {
+                display: -webkit-inline-box;
+                margin-bottom: 30px;
+            }
            }
 
           @media screen and (max-width:1035px)
@@ -642,6 +660,23 @@ header a {
                 width: 200px;
                 margin: 0 auto;
              }
+
+             .align-form {
+                display: inline-flex;
+            }
+
+            .get-qst {
+                text-align: center;
+                margin-top: 20px;
+            }
+
+            .get-par {
+                text-align: center;
+                height: 100px;
+                width: 100%;
+                padding: 0 30px;
+                margin: 0 auto;
+        }
               
             }
 
@@ -657,8 +692,29 @@ header a {
                     width: 200px;
                     margin: 20px auto;
                 }
+
+               
             }
 
+            @media screen and (max-width: 610px)
+            {
+               #gallery {
+                    min-height: 100vh;
+                }
+
+                .cntr-i-b {
+                    flex-direction: column;
+                    
+                }
+
+                .cntr-imgs {
+                    margin: 10px auto;
+                }
+
+                
+
+                
+        }
           
     
 
