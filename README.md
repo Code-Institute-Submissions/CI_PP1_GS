@@ -51,18 +51,47 @@
 ### Target Audience
 - People looking to have a healtier life style.
 - People looking to be assisted by personal trainers.
-- 
+- People looking for flexible hours.
+- People looking for nutrition advice.
 
 ### User Requrements and Expectations
 
-- A simple and intuitive navigation system
-- Quickly and easily find relevant information
-- Links and functions that work as expected
-- Good presentation and a visually appealing design regardless of screen size
-- An easy way to contact the bussines
-- Simple content that the user can skim read
-- Accessibility
+- A simple and intuitive navigation system.
+- Quickly and easily find relevant information.
+- Links and functions that work as expected.
+- Good presentation and a visually appealing design regardless of screen size.
+- An easy way to contact the business.
+- Simple content that the user can skim read.
+- Accessibility.
 
+### User Stories
+
+#### First-time User 
+1. As a first time user, I want to know where the gym is lokated.
+2. As a first time user, I want to know the price range.
+3. As a first time user, I want to know about the opening hours.
+4. As a first time user, I want to know what services the gym offers.
+5. As a first time user, I want to get in touch with the gym about the programmes.
+
+#### Returning User
+1. As a returning user, I want to see the price range.
+2. As a returnign user, I want to know the opening times.
+3. As a returning user, I want to find the gym on social media.
+4. As a returning user, I want to get directions to the gym.
+
+#### Site Owner 
+1. As the site owner, I want users to see the programs we offer.
+2. As the site owner, I want user to see that the opening hours are flexible.
+3. As the site owner, I want users to get to know about Gym Stars.
+4. As the site owner, I want the users to be able to contact us.
+
+## Design
+
+### Design Choices
+I gave the website a design that wants to look modern, tidy and eye-pleasing to the users being easy to navigate.
+
+### Colour
+I have given the website a contrast of shades of gray, black and shades of orange as a light orange color as background for some texts and an orangered, a dark orange color for borders and buttons. I choose the orange because from a marketing point of view it is seen as healthy, energized and attention grabbing.
 
 
 

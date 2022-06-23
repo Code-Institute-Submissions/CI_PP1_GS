@@ -100,7 +100,7 @@ header a {
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     
     /* zooming the image in */ 
     animation-name: image-zoom;
@@ -125,6 +125,7 @@ header a {
         position: relative;
         text-align: center;
         color: whitesmoke;
+        
     }
 
     .motive {
