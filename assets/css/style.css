@@ -584,7 +584,7 @@ header a {
            .get-par {
             text-align: center;
             margin: 40px;
-            width: 100%;
+            
            }
 
            /* 404-Error-Page */
@@ -729,8 +729,11 @@ header a {
                         width: 150px;
                  }
 
+                
+
                  .prgm-text {
                     line-height: 25px;
+                    padding: 10px 50px;
                  }
 
                  #logo {
@@ -750,6 +753,10 @@ header a {
                  @media screen and (max-width:500px){
                     .img-sty {
                         display: none;
+                    }
+
+                    .social-links i {
+                        padding: 25px;
                     }
                  }
     
