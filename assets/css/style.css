@@ -565,9 +565,9 @@ header a {
            .c-button {
             margin-top: 20px;
             border-radius: 5px;
-            padding: 10px 30px;
+            padding: 15px 35px;
             text-align: center;
-            font-size: 100%;
+            font-size: 120%;
             background-color: orangered;
             color: whitesmoke;
             display: block;
@@ -576,9 +576,9 @@ header a {
            .r-button {
             margin-top: 20px;
             border-radius: 5px;
-            padding: 10px 30px;
+            padding: 15px 35px;
             text-align: center;
-            font-size: 100%;
+            font-size: 120%;
             background-color: whitesmoke;
             color: orangered;
             display: block;
