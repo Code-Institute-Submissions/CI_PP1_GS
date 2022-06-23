@@ -10,7 +10,7 @@
 }
 
 
- h1,h2,h3 { 
+ h1, h2 { 
     font-family: Oswald,sans-serif;
     letter-spacing: 3px;
     color: whitesmoke;
@@ -18,6 +18,12 @@
 
 h2 {
     font-size: 160%;
+}
+
+h3, h4 {
+    font-family: Oswald,sans-serif;
+    letter-spacing: 3px;
+    color: #2e2e2e;
 }
 
 p {
@@ -271,6 +277,11 @@ header a {
         }
 
         #map-cntr h2 {
+            color: #2e2e2e;
+            margin: 30px;
+        }
+
+        #map-cntr h3 {
             color: #2e2e2e;
             margin: 30px;
         }
