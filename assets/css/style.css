@@ -271,6 +271,11 @@ header a {
         
         /* map */
 
+        iframe{
+            height: 250px;
+            width: 100%;
+        }
+
         #map-cntr h2 {
             color: #2e2e2e;
             margin: 30px;
