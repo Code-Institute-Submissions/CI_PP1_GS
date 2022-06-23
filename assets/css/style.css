@@ -656,6 +656,10 @@ header a {
                     justify-content: center;
                 }
 
+                #wlcm-gs {
+                    text-align: center;
+                }
+
                 #welcome {
                     display: contents;
                 }

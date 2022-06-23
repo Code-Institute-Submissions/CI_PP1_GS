@@ -187,6 +187,12 @@ The contact page wants to give the user the chance to get in touch with the pers
  
 ![Contact](../CI_PP1_GS/docs/contact-form.png)
 
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+
+
 
 
 
