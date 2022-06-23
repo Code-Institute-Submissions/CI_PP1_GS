@@ -93,6 +93,17 @@ I gave the website a design that wants to look modern, tidy and eye-pleasing to 
 ### Colour
 I have given the website a contrast of shades of gray, black and shades of orange as a light orange color as background for some texts and an orangered, a dark orange color for borders and buttons. I choose the orange because from a marketing point of view it is seen as healthy, energized and attention grabbing.
 
+### Fonts
+Oswald was used for the logo and the headings and Roboto for the paragraphs. I chose these fonts because they are considered attractive and amenable. 
+
+### Structure
+The page is structured in an easy user friendly way. Upon arriving at the website the user sees a familiar type of navigation bar with the gym logo on the left side and the navigation links to the right.
+The website consists of four separate pages:
+- A homepage with a hero image, a welcome section and the location of the gym.
+- A programme page with the training programmes offered.
+- An about page with the ‘Why Gym Stars’.
+- A contact page with a contact form to ask questions or leave a message.
+
 
 
 
