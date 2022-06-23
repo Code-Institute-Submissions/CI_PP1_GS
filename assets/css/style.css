@@ -568,7 +568,7 @@ header a {
             padding: 15px 35px;
             text-align: center;
             font-size: 120%;
-            background-color: orangered;
+            background-color: #2e2e2e;
             color: whitesmoke;
             display: block;
            }
@@ -580,7 +580,7 @@ header a {
             text-align: center;
             font-size: 120%;
             background-color: whitesmoke;
-            color: orangered;
+            color: #2e2e2e;
             display: block;
            }
 
