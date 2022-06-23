@@ -639,6 +639,12 @@ header a {
 
             @media screen and (max-width: 999px)
              {
+                .motive {
+                    top: 40%;
+                    font-size: 200%;
+                    left: 15%;
+                }
+            
                 #bgr-color{
                     display: grid;
                     justify-content: center;
