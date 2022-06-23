@@ -128,14 +128,7 @@ header a {
         
     }
 
-    .motive {
-        margin: 0 auto;
-        position: absolute;
-        top: 30%;
-        left: 30%;
-        font-size: 250%;
-        text-transform: capitalize;
-    }
+    
 
     /* welcome */
 
@@ -645,11 +638,7 @@ header a {
 
             @media screen and (max-width: 999px)
              {
-                .motive {
-                    top: 40%;
-                    font-size: 200%;
-                    left: 15%;
-                }
+                
             
                 #bgr-color{
                     display: grid;
