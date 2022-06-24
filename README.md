@@ -1,7 +1,7 @@
 # Gym Stars
 (Developer: Mario Castaldo)
 
-![Mockup image](/workspace/CI_PP1_GS/docs/mockup/mock-up.png)
+![Mockup image](../CI_PP1_GS/docs/mockup/mockup-image.png)
 
 [Live webpage]( https://marittie.github.io/CI_PP1_GS/)
 
@@ -80,16 +80,16 @@
 5. As a first time user, I want to get in touch with the gym about the programmes.
 
 #### Returning User
-1. As a returning user, I want to see the price range.
-2. As a returnign user, I want to know the opening times.
-3. As a returning user, I want to find the gym on social media.
-4. As a returning user, I want to get directions to the gym.
+6. As a returning user, I want to see the price range.
+7. As a returnign user, I want to know the opening times.
+8. As a returning user, I want to find the gym on social media.
+9. As a returning user, I want to get directions to the gym.
 
 #### Site Owner 
-1. As the site owner, I want users to see the programs we offer.
-2. As the site owner, I want user to see that the opening hours are flexible.
-3. As the site owner, I want users to get to know about Gym Stars.
-4. As the site owner, I want the users to be able to contact us.
+10. As the site owner, I want users to see the programs we offer.
+11. As the site owner, I want user to see that the opening hours are flexible.
+12. As the site owner, I want users to get to know about Gym Stars.
+13. As the site owner, I want the users to be able to contact us.
 
 ## Design
 
@@ -240,6 +240,7 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="/workspace/CI_PP1_GS/docs/accessibility/accessibility-contact.png">
 </details>
 
+
 ### Performance 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
@@ -272,6 +273,96 @@ The website was tested on the following browsers:
 - Safari
 - Mozilla Firefox
 
+### Testing user stories
 
+1. As a first time user, I want to know where the gym is located
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to the bottom of the page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
+
+2. As a first time user, I want to know the price range
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the Programme page | See prices on the programme page | Works as expected |
+
+
+3. As a first time user, I want to know more about the opening hours
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
+
+4. As a first time user, I want to know what services the gym offers.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to the Home page and locate the 'We offer' section | Find what the gym offers | Works as expected |
+
+5. As a first time user, I want to get in touch with the gym about the programmes.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the Programme page | Find contact button at the bottom of the page | Works as expected |
+| Menu | Navigate to the Contact page | Find contact form on the page | Works as expected |
+
+6. As a returning user, I want to see the price range.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the Programme page | See prices on the programme page | Works as expected |
+
+7. As a returnign user, I want to know the opening times.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
+
+8. As a returning user, I want to find the gym on social media.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
+
+9. As a returning user, I want to get directions to the gym.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to the bottom of the page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
+
+10. As the site owner, I want users to see the programmes we offer.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to the Home page and locate the 'We offer' section | Find what the gym offers | Works as expected |
+
+11. As the site owner, I want user to see that the opening hours are flexible.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
+
+12. As the site owner, I want users to get to know about Gym Stars.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to the About page | Find 'Why Gym Stars' on the page | Works as expected |
+
+13. As the site owner, I want the users to be able to contact us.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the Programme page | Find contact button at the bottom of the page | Works as expected |
+| Menu | Navigate to the Contact page | Find contact form on the page | Works as expected |
+
+
+
+## Deployment
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://marittie.github.io/CI_PP1_GS/ 
 
 
