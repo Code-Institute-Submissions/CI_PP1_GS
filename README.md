@@ -264,7 +264,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 The website was tested on the following devices:
 - Iphone 7
 - Iphone 13 Pro
-- 
+- Samsuns S20 Ultra
 In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
 ### Browser compatability
@@ -281,12 +281,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Home | Navigate to the bottom of the page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 2. As a first time user, I want to know the price range
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Menu | Navigate to the Programme page | See prices on the programme page | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 3. As a first time user, I want to know more about the opening hours
 
@@ -294,11 +301,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 4. As a first time user, I want to know what services the gym offers.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Home | Navigate to the Home page and locate the 'We offer' section | Find what the gym offers | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 5. As a first time user, I want to get in touch with the gym about the programmes.
 
@@ -307,11 +322,19 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Programme page | Find contact button at the bottom of the page | Works as expected |
 | Menu | Navigate to the Contact page | Find contact form on the page | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 6. As a returning user, I want to see the price range.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Menu | Navigate to the Programme page | See prices on the programme page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 7. As a returnign user, I want to know the opening times.
 
@@ -319,11 +342,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 8. As a returning user, I want to find the gym on social media.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 9. As a returning user, I want to get directions to the gym.
 
@@ -331,11 +362,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Home | Navigate to the bottom of the page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 10. As the site owner, I want users to see the programmes we offer.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Home | Navigate to the Home page and locate the 'We offer' section | Find what the gym offers | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 11. As the site owner, I want user to see that the opening hours are flexible.
 
@@ -343,11 +382,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 12. As the site owner, I want users to get to know about Gym Stars.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Home | Navigate to the About page | Find 'Why Gym Stars' on the page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 13. As the site owner, I want the users to be able to contact us.
 
@@ -355,6 +402,10 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Menu | Navigate to the Programme page | Find contact button at the bottom of the page | Works as expected |
 | Menu | Navigate to the Contact page | Find contact form on the page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 
 
@@ -365,4 +416,19 @@ The website was deployed using GitHub Pages by following these steps:
 3. For the source select Branch: master
 4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://marittie.github.io/CI_PP1_GS/ 
 
+## Credits
 
+### Media
+All the photos used are from https://www.pexels.com/
+
+### Code
+- I watched videos by Kevin Powell on YouTube about media query.
+- I got inspired by the Love Running Project about the round images on the home page and the about page.
+- I utilized the website w3schools.com for the style of the contact form.
+
+## Acknowledgements
+I would like to take the opportunity to thank:
+- The Tutors for the incredible support. 
+- My fellow students on the slack community for the code reviews.
+- My Mentor Mo Shami for giudance, support and advice.
+- My girlfriend and my friends for feedbacks and support.
