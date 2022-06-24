@@ -1,4 +1,10 @@
 # Gym Stars
+(Developer: Mario Castaldo)
+
+![Mockup image](/workspace/CI_PP1_GS/docs/mockup/mock-up.png)
+
+[Live webpage]( https://marittie.github.io/CI_PP1_GS/)
+
 
 ## Table of Content
 
@@ -231,11 +237,40 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 </details>
 
 <details><summary>Contact</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/accessibility/accessibility-contact.png">
 </details>
 
+### Performance 
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
+<details><summary>Home</summary>
+<img src="/workspace/CI_PP1_GS/docs/performance/performance-home.png">
+</details>
 
+<details><summary>Program</summary>
+<img src="/workspace/CI_PP1_GS/docs/performance/performance-program.png">
+</details>
+
+<details><summary>About</summary>
+<img src="/workspace/CI_PP1_GS/docs/performance/performance-about.png">
+</details>
+
+<details><summary>Contact</summary>
+<img src="/workspace/CI_PP1_GS/docs/performance/performance-contact.png">
+</details>
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+- Iphone 7
+- Iphone 13 Pro
+- 
+In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Safari
+- Mozilla Firefox
 
 
 
