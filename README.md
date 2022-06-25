@@ -112,6 +112,31 @@ The website consists of four separate pages:
 
 ### Wireframes
 
+<details><summary>Home</summary>
+<img src="/workspace/CI_PP1_GS/docs/wireframes/home-laptop.png">
+<img src="/workspace/CI_PP1_GS/docs/wireframes/home-tablet.png">
+<img src="/workspace/CI_PP1_GS/docs/wireframes/home-cellphone.png">
+</details>
+
+<details><summary>Program</summary>
+<img src="/workspace/CI_PP1_GS/docs/wireframes/program-laptop.png">
+<img src="/workspace/CI_PP1_GS/docs/wireframes/program-tablet.png">
+<img src="/workspace/CI_PP1_GS/docs/wireframes/program-cellphone.png">
+</details>
+
+<details><summary>About</summary>
+<img src="/workspace/CI_PP1_GS/docs/wireframes/about-laptop.png">
+<img src="/workspace/CI_PP1_GS/docs/wireframes/about-tablet.png">
+<img src="/workspace/CI_PP1_GS/docs/wireframes/about-cellphone.png">
+</details>
+
+<details><summary>Contact</summary>
+<img src="/workspace/CI_PP1_GS/docs/wireframes/contact-laptop.png">
+<img src="/workspace/CI_PP1_GS/docs/wireframes/contact-tablet.png">
+<img src="/workspace/CI_PP1_GS/docs/wireframes/contact-cellphone.png">
+</details>
+
+
 ## Technologies Used
 
 ### Languages
@@ -282,7 +307,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the bottom of the page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/navigate-map.png">
 </details>
 
 2. As a first time user, I want to know the price range
@@ -292,7 +317,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Programme page | See prices on the programme page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/price-range.png">
 </details>
 
 3. As a first time user, I want to know more about the opening hours
@@ -302,7 +327,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
 </details>
 
 4. As a first time user, I want to know what services the gym offers.
@@ -312,7 +337,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page and locate the 'We offer' section | Find what the gym offers | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/offering.png">
 </details>
 
 5. As a first time user, I want to get in touch with the gym about the programmes.
@@ -323,7 +348,8 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Contact page | Find contact form on the page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/contact-link.png">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/contact-form.png">
 </details>
 
 6. As a returning user, I want to see the price range.
@@ -333,7 +359,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Programme page | See prices on the programme page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/price-range.png">
 </details>
 
 7. As a returnign user, I want to know the opening times.
@@ -343,7 +369,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
 </details>
 
 8. As a returning user, I want to find the gym on social media.
@@ -353,7 +379,7 @@ The website was tested on the following browsers:
 | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/social-media.png">
 </details>
 
 9. As a returning user, I want to get directions to the gym.
@@ -363,17 +389,19 @@ The website was tested on the following browsers:
 | Home | Navigate to the bottom of the page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/navigate-map.png">
 </details>
 
 10. As the site owner, I want users to see the programmes we offer.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Home | Navigate to the Home page and locate the 'We offer' section | Find what the gym offers | Works as expected |
+| Home | Navigate to the Home page and locate the 'We offer' section with the button to the programs | Find what the gym offers | Works as expected | 
+| Home | Navigate to the Program page | Find the four programmes offered | Works as expected
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/programmes-link.png">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/programmes.png">
 </details>
 
 11. As the site owner, I want user to see that the opening hours are flexible.
@@ -383,7 +411,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
 </details>
 
 12. As the site owner, I want users to get to know about Gym Stars.
@@ -393,18 +421,19 @@ The website was tested on the following browsers:
 | Home | Navigate to the About page | Find 'Why Gym Stars' on the page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/about.png">
 </details>
 
 13. As the site owner, I want the users to be able to contact us.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Menu | Navigate to the Programme page | Find contact button at the bottom of the page | Works as expected |
+| Menu | Navigate to the Programme page | Find contact button at the bottom of the page to direct user to the contact form | Works as expected |
 | Menu | Navigate to the Contact page | Find contact form on the page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/contact-link.png">
+<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/contact-form.png">
 </details>
 
 
