@@ -113,27 +113,27 @@ The website consists of four separate pages:
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="/workspace/CI_PP1_GS/docs/wireframes/home-laptop.png">
-<img src="/workspace/CI_PP1_GS/docs/wireframes/home-tablet.png">
-<img src="/workspace/CI_PP1_GS/docs/wireframes/home-cellphone.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/home-laptop.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/home-tablet.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/home-cellphone.png">
 </details>
 
 <details><summary>Program</summary>
-<img src="/workspace/CI_PP1_GS/docs/wireframes/program-laptop.png">
-<img src="/workspace/CI_PP1_GS/docs/wireframes/program-tablet.png">
-<img src="/workspace/CI_PP1_GS/docs/wireframes/program-cellphone.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/program-laptop.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/program-tablet.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/program-cellphone.png">
 </details>
 
 <details><summary>About</summary>
-<img src="/workspace/CI_PP1_GS/docs/wireframes/about-laptop.png">
-<img src="/workspace/CI_PP1_GS/docs/wireframes/about-tablet.png">
-<img src="/workspace/CI_PP1_GS/docs/wireframes/about-cellphone.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/about-laptop.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/about-tablet.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/about-cellphone.png">
 </details>
 
 <details><summary>Contact</summary>
-<img src="/workspace/CI_PP1_GS/docs/wireframes/contact-laptop.png">
-<img src="/workspace/CI_PP1_GS/docs/wireframes/contact-tablet.png">
-<img src="/workspace/CI_PP1_GS/docs/wireframes/contact-cellphone.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/contact-laptop.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/contact-tablet.png">
+<img src="workspace/CI_PP1_GS/docs/wireframes/contact-cellphone.png">
 </details>
 
 
@@ -224,45 +224,45 @@ The contact page wants to give the user the chance to get in touch with the pers
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 
 <details><summary>Home</summary>
-<img src="/workspace/CI_PP1_GS/docs/validation/html-validator-index.html-page.png">
+<img src="workspace/CI_PP1_GS/docs/validation/html-validator-index.html-page.png">
 </details>
 
 <details><summary>Programs</summary>
-<img src="/workspace/CI_PP1_GS/docs/validation/html-validator-program.html-page.png">
+<img src="workspace/CI_PP1_GS/docs/validation/html-validator-program.html-page.png">
 </details>
 
 <details><summary>About</summary>
-<img src="/workspace/CI_PP1_GS/docs/validation/html-validator-about.html-page.png">
+<img src="workspace/CI_PP1_GS/docs/validation/html-validator-about.html-page.png">
 </details>
 
 <details><summary>Contact</summary>
-<img src="/workspace/CI_PP1_GS/docs/validation/html-validator-contact.html-page.png">
+<img src="workspace/CI_PP1_GS/docs/validation/html-validator-contact.html-page.png">
 </details>
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 
 <details><summary>Whole</summary>
-<img src="/workspace/CI_PP1_GS/docs/validation/css-validation.png">
+<img src="workspace/CI_PP1_GS/docs/validation/css-validation.png">
 </details>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 
 <details><summary>Home</summary>
-<img src="/workspace/CI_PP1_GS/docs/accessibility/accessibility-index.png">
+<img src="workspace/CI_PP1_GS/docs/accessibility/accessibility-index.png">
 </details>
 
 <details><summary>Programs</summary>
-<img src="/workspace/CI_PP1_GS/docs/accessibility/accessibility-program.png">
+<img src="workspace/CI_PP1_GS/docs/accessibility/accessibility-program.png">
 </details>
 
 <details><summary>About</summary>
-<img src="/workspace/CI_PP1_GS/docs/accessibility/accessibility-about.png">
+<img src="workspace/CI_PP1_GS/docs/accessibility/accessibility-about.png">
 </details>
 
 <details><summary>Contact</summary>
-<img src="/workspace/CI_PP1_GS/docs/accessibility/accessibility-contact.png">
+<img src="workspace/CI_PP1_GS/docs/accessibility/accessibility-contact.png">
 </details>
 
 
@@ -270,19 +270,19 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-<img src="/workspace/CI_PP1_GS/docs/performance/performance-home.png">
+<img src="workspace/CI_PP1_GS/docs/performance/performance-home.png">
 </details>
 
 <details><summary>Program</summary>
-<img src="/workspace/CI_PP1_GS/docs/performance/performance-program.png">
+<img src="workspace/CI_PP1_GS/docs/performance/performance-program.png">
 </details>
 
 <details><summary>About</summary>
-<img src="/workspace/CI_PP1_GS/docs/performance/performance-about.png">
+<img src="workspace/CI_PP1_GS/docs/performance/performance-about.png">
 </details>
 
 <details><summary>Contact</summary>
-<img src="/workspace/CI_PP1_GS/docs/performance/performance-contact.png">
+<img src="workspace/CI_PP1_GS/docs/performance/performance-contact.png">
 </details>
 
 ### Performing tests on various devices 
@@ -307,7 +307,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the bottom of the page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/navigate-map.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/navigate-map.png">
 </details>
 
 2. As a first time user, I want to know the price range
@@ -317,7 +317,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Programme page | See prices on the programme page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/price-range.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/price-range.png">
 </details>
 
 3. As a first time user, I want to know more about the opening hours
@@ -327,7 +327,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
 </details>
 
 4. As a first time user, I want to know what services the gym offers.
@@ -337,7 +337,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page and locate the 'We offer' section | Find what the gym offers | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/offering.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/offering.png">
 </details>
 
 5. As a first time user, I want to get in touch with the gym about the programmes.
@@ -348,8 +348,8 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Contact page | Find contact form on the page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/contact-link.png">
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/contact-form.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/contact-link.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/contact-form.png">
 </details>
 
 6. As a returning user, I want to see the price range.
@@ -359,7 +359,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Programme page | See prices on the programme page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/price-range.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/price-range.png">
 </details>
 
 7. As a returnign user, I want to know the opening times.
@@ -369,7 +369,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
 </details>
 
 8. As a returning user, I want to find the gym on social media.
@@ -379,7 +379,7 @@ The website was tested on the following browsers:
 | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/social-media.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/social-media.png">
 </details>
 
 9. As a returning user, I want to get directions to the gym.
@@ -389,7 +389,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the bottom of the page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/navigate-map.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/navigate-map.png">
 </details>
 
 10. As the site owner, I want users to see the programmes we offer.
@@ -400,8 +400,8 @@ The website was tested on the following browsers:
 | Home | Navigate to the Program page | Find the four programmes offered | Works as expected
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/programmes-link.png">
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/programmes.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/programmes-link.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/programmes.png">
 </details>
 
 11. As the site owner, I want user to see that the opening hours are flexible.
@@ -411,7 +411,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page | Find opening hours of the gym | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/opening-hours.png">
 </details>
 
 12. As the site owner, I want users to get to know about Gym Stars.
@@ -421,7 +421,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the About page | Find 'Why Gym Stars' on the page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/about.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/about.png">
 </details>
 
 13. As the site owner, I want the users to be able to contact us.
@@ -432,8 +432,8 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Contact page | Find contact form on the page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/contact-link.png">
-<img src="/workspace/CI_PP1_GS/docs/testing-user-stories/contact-form.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/contact-link.png">
+<img src="workspace/CI_PP1_GS/docs/testing-user-stories/contact-form.png">
 </details>
 
 
