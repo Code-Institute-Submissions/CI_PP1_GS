@@ -113,27 +113,27 @@ The website consists of four separate pages:
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="workspace/CI_PP1_GS/docs/wireframes/home-laptop.png">
-<img src="workspace/CI_PP1_GS/docs/wireframes/home-tablet.png">
-<img src="workspace/CI_PP1_GS/docs/wireframes/home-cellphone.png">
+<img src="./docs/wireframes/home-laptop.png">
+<img src="./docs/wireframes/home-tablet.png">
+<img src="./docs/wireframes/home-cellphone.png">
 </details>
 
 <details><summary>Program</summary>
-<img src="workspace/CI_PP1_GS/docs/wireframes/program-laptop.png">
-<img src="workspace/CI_PP1_GS/docs/wireframes/program-tablet.png">
-<img src="workspace/CI_PP1_GS/docs/wireframes/program-cellphone.png">
+<img src="./docs/wireframes/program-laptop.png">
+<img src="./docs/wireframes/program-tablet.png">
+<img src="./docs/wireframes/program-cellphone.png">
 </details>
 
 <details><summary>About</summary>
-<img src="workspace/CI_PP1_GS/docs/wireframes/about-laptop.png">
-<img src="workspace/CI_PP1_GS/docs/wireframes/about-tablet.png">
-<img src="workspace/CI_PP1_GS/docs/wireframes/about-cellphone.png">
+<img src="./docs/wireframes/about-laptop.png">
+<img src="./docs/wireframes/about-tablet.png">
+<img src="./docs/wireframes/about-cellphone.png">
 </details>
 
 <details><summary>Contact</summary>
-<img src="workspace/CI_PP1_GS/docs/wireframes/contact-laptop.png">
-<img src="workspace/CI_PP1_GS/docs/wireframes/contact-tablet.png">
-<img src="workspace/CI_PP1_GS/docs/wireframes/contact-cellphone.png">
+<img src="./docs/wireframes/contact-laptop.png">
+<img src="./docs/wireframes/contact-tablet.png">
+<img src="./docs/wireframes/contact-cellphone.png">
 </details>
 
 
@@ -224,33 +224,33 @@ The contact page wants to give the user the chance to get in touch with the pers
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 
 <details><summary>Home</summary>
-<img src="workspace/CI_PP1_GS/docs/validation/html-validator-index.html-page.png">
+<img src="./docs/validation/html-validator-index.html-page.png">
 </details>
 
 <details><summary>Programs</summary>
-<img src="workspace/CI_PP1_GS/docs/validation/html-validator-program.html-page.png">
+<img src="./docs/validation/html-validator-program.html-page.png">
 </details>
 
 <details><summary>About</summary>
-<img src="workspace/CI_PP1_GS/docs/validation/html-validator-about.html-page.png">
+<img src="./docs/validation/html-validator-about.html-page.png">
 </details>
 
 <details><summary>Contact</summary>
-<img src="workspace/CI_PP1_GS/docs/validation/html-validator-contact.html-page.png">
+<img src=./docs/validation/html-validator-contact.html-page.png">
 </details>
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 
 <details><summary>Whole</summary>
-<img src="workspace/CI_PP1_GS/docs/validation/css-validation.png">
+<img src="./docs/validation/css-validation.png">
 </details>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 
 <details><summary>Home</summary>
-<img src="workspace/CI_PP1_GS/docs/accessibility/accessibility-index.png">
+<img src="./docs/accessibility/accessibility-index.png">
 </details>
 
 <details><summary>Programs</summary>
