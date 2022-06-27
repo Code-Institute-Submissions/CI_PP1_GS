@@ -340,7 +340,7 @@ The website was tested on the following browsers:
 | Home | Navigate to the Home page and locate the 'We offer' section | Find what the gym offers | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="./testing-user-stories/offering.png">
+<img src="./docs/testing-user-stories/offering.png">
 </details>
 
 5. As a first time user, I want to get in touch with the gym about the programmes.
