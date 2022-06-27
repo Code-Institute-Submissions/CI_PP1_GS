@@ -5,12 +5,9 @@
     padding: 0;
     border: none; 
     box-sizing: border-box;
-    
-    
-}
+    }
 
-
- h1, h2 { 
+h1, h2 { 
     font-family: Oswald,sans-serif;
     letter-spacing: 3px;
     color: whitesmoke;
@@ -33,7 +30,6 @@ p {
     color: whitesmoke;
 }
 
-
 /* logo  & navigation links*/
 
 #logo {
@@ -43,17 +39,13 @@ p {
     font-style: oblique;
     text-transform: uppercase; 
     color: whitesmoke;
-    
-    }
+}
 
-    #bgr-color {
-        min-height: 100px;
-        width: 100%;
-        background-color: #2e2e2e;
-    }
-
-
-
+#bgr-color {
+    min-height: 100px;
+    width: 100%;
+    background-color: #2e2e2e;
+}
 
 header a {
     text-decoration: none;
@@ -63,18 +55,13 @@ header a {
     font-size: 150%;
     letter-spacing: 3px;
     color: whitesmoke;
-    
-    
 }
 
 #navmenu li {
     float: right;
     list-style-type: none;
     margin-right: 20px;
-    
-    
 }
-
 
 #navmenu, .logo {
    line-height: 80px;
@@ -97,8 +84,6 @@ header a {
    width: 100%;
 }
 
-
-
 #main-image {
     margin: 0 auto;
     background: url(../images/girl-cable-push-up.webp);
@@ -108,202 +93,177 @@ header a {
     background-repeat: no-repeat;
     background-size: cover;
     
-    /* zooming the image in */ 
+/* zooming the image in */ 
     animation-name: image-zoom;
     animation-fill-mode: forwards;
     animation-duration: 7s;
-    }
+}
      
-    /* zoom for the image*/ 
+/* zoom for the image*/ 
 
-    @keyframes image-zoom {
-         from {
-             transform: scale(1);
-         }
-         to {
-             transform: scale(1.15);
-         }
-    }
+@keyframes image-zoom {
+    from {
+        transform: scale(1);
+        }
+    to {
+        transform: scale(1.15);
+        }
+}
 
     /* motivational cit. inside the main image */
 
-    .container h2{
-        position: relative;
-        text-align: center;
-        color: whitesmoke;
-        
-    }
+.container h2{
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+}
 
-    
+/* welcome */
 
-    /* welcome */
+#welcome {
+    margin: 50px 0;
+    display: flex;
+    width: 100%;
+    padding: 50px;
+}
+.pa-we {
+    margin: 0 auto;
+    padding: 30px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: orangered 1px solid;
+    border-radius: 25px;
+    line-height: 30px;
+}
 
-    #welcome {
-        
-        margin: 50px 0;
-        display: flex;
-        width: 100%;
-        padding: 50px;
-        
-        }
+#wlcm-gs {
+    height: 250px;
+}
 
-    .pa-we {
-        margin: 0 auto;
-        padding: 30px;
-        position: relative;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        border: orangered 1px solid;
-        border-radius: 25px;
-        line-height: 30px;
-        
-    }
-
-    #wlcm-gs {
-        height: 250px;
-        
-    }
-
-    #offering {
-       height: 250px;
-    }
+#offering {
+    height: 250px;
+}
         
         
-         .go-program {
-             margin: 20px auto;
-             background-color: orangered;
-             border-radius: 50px;
-             font-size: 30px;
-             text-decoration: none;
-             color: whitesmoke;
-             padding: 2px 30px;
-             
-              }
+.go-program {
+    margin: 20px auto;
+    background-color: orangered;
+    border-radius: 50px;
+    font-size: 30px;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 2px 30px;
+}
 
 
-         #wlcm-gs h2,h3,p {
-             color: #2e2e2e;
-         }
+#wlcm-gs h2,h3,p {
+    color: #2e2e2e;
+}
         
-         #offering h2 {
-             color: #2e2e2e;
-         }
+#offering h2 {
+    color: #2e2e2e;
+}
 
-         #offering li {
-            list-style-type: none;
-            color: #2e2e2e;
-            font-size: 20px;
-        }
+ #offering li {
+    list-style-type: none;
+    color: #2e2e2e;
+    font-size: 20px;
+}
 
-    
-        
-        /* gallery */
+/* gallery */
 
-        #gallery {
-        height: 350px;
-        margin: 50px 0;
-        
+#gallery {
+    height: 350px;
+    margin: 50px 0;
+}
+
+.cntr-i-b {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cntr-imgs {
             
-        }
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    border-style: solid;
+    border-color: orangered;
+    border-width: 1px;
+    border-radius: 50%;
+    position: relative;
+    margin: 65px auto;
+}
 
-        .cntr-i-b {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
+.photo-1 {
+    background: url(../images/girl-dumbbell-press.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    border-radius: 50%;
+}
 
-        .cntr-imgs {
-            
-            width: 150px;
-            height: 150px;
-            padding: 20px;
-            border-style: solid;
-            border-color: orangered;
-            border-width: 1px;
-            border-radius: 50%;
-            position: relative;
-            margin: 65px auto;
-            
-    
-        }
+.photo-2 {
+    background: url(../images/girl-ropes.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    border-radius: 50%;
+}
 
-        .photo-1 {
-            background: url(../images/girl-dumbbell-press.jpeg);
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: cover;
-            
-            height: 100%;
-            border-radius: 50%;
-            
-        }
+.photo-3 {
+    background: url(../images/guy-biceps.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    border-radius: 50%;
+}
 
-        .photo-2 {
-            background: url(../images/girl-ropes.webp);
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: cover;
-           
-            height: 100%;
-            border-radius: 50%;
-        }
-
-        .photo-3 {
-            background: url(../images/guy-biceps.jpeg);
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: cover;
-            
-            height: 100%;
-            border-radius: 50%;
-        }
-
-        .photo-4 {
-            background: url(../images/core-workout.jpeg);
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: cover;
-            
-            height: 100%;
-            border-radius: 50%;
-        }
+.photo-4 {
+    background: url(../images/core-workout.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    border-radius: 50%;
+}
         
-        /* map */
+/* map */
 
-        iframe{
-            height: 250px;
-            width: 100%;
-        }
+iframe{
+    height: 250px;
+    width: 100%;
+}
 
-        #map-cntr h2 {
-            color: #2e2e2e;
-            margin: 30px;
-        }
+#map-cntr h2 {
+    color: #2e2e2e;
+    margin: 30px;
+}
 
-        #map-cntr h3 {
-            color: #2e2e2e;
-            margin: 30px;
-        }
+#map-cntr h3 {
+    color: #2e2e2e;
+    margin: 30px;
+}
 
-         #map-cntr {
-             margin: 0 auto;
-             height: 320px;
-             
-         }
+#map-cntr {
+    margin: 0 auto;
+    height: 320px;
+}
          
-         map {
-             height: 250px;
-             width: 100%;
-             
-         }
+map {
+    height: 250px;
+    width: 100%;
+}
 
-         /* footer */
+/* footer */
 
-         
-         
-
-    .footer-bgrd {
+.footer-bgrd {
         background-color: #2e2e2e;
         height: 145px;
         
@@ -600,7 +560,7 @@ header a {
            /* 404-Error-Page */
 
             #error{
-                
+
             text-align: center;
             padding: 25%;
             
