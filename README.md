@@ -238,7 +238,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <img src="./docs/validation/html-validator-contact.html-page.png">
 </details>
 
-<details><summary>Contact</summary>
+<details><summary>404</summary>
 <img src="./docs/validation/404-error-page.png">
 </details>
 
