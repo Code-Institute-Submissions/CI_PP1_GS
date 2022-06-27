@@ -33,10 +33,9 @@
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
-9. [Deployment](#deployment)
-10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+10. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
 
@@ -236,7 +235,11 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 </details>
 
 <details><summary>Contact</summary>
-<img src=./docs/validation/html-validator-contact.html-page.png">
+<img src="./docs/validation/html-validator-contact.html-page.png">
+</details>
+
+<details><summary>Contact</summary>
+<img src="./docs/validation/404-error-page.png">
 </details>
 
 ### CSS Validation
