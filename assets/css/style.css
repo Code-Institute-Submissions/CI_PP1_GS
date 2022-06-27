@@ -600,9 +600,10 @@ header a {
            /* 404-Error-Page */
 
             #error{
+                
             text-align: center;
-            padding: 35%;
-            margin-left: 25%;
+            padding: 25%;
+            
 }
 
            /* Media Queries */
