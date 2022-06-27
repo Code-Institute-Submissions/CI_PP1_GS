@@ -221,7 +221,7 @@ The contact page wants to give the user the chance to get in touch with the pers
 
 The error page is built showing the main image of the home page and the text with the 404 error and the path to follow to redirect the user to the working website.
 
-![404](.docs/features/404-page.png)
+![404](./docs/features/404-page.png)
 
 ## Validation
 
