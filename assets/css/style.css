@@ -176,7 +176,7 @@ header a {
 
 #gallery {
     height: 350px;
-    margin: 50px 0;
+    margin: 70px 0;
 }
 
 .cntr-i-b {
@@ -695,6 +695,8 @@ form {
     #wlcm-gs {
         height: 450px;}
     }
+
+
           
 
 @media screen and (max-width:500px){
