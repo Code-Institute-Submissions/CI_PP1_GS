@@ -72,19 +72,19 @@
 ### User Stories
 
 #### First-time User 
-1. As a first time user, I want to know where the gym is lokated.
-2. As a first time user, I want to know the price range.
-3. As a first time user, I want to know about the opening hours.
-4. As a first time user, I want to know what services the gym offers.
-5. As a first time user, I want to get in touch with the gym about the programmes.
+1. As a new user, I want to know where the gym is lokated.
+2. As a new user, I want to know the price range.
+3. As a new user, I want to know about the opening hours.
+4. As a new user, I want to know what services the gym offers.
+5. As a new user, I want to get in touch with the gym about the programmes.
 
 #### Returning User
 6. As a returning user, I want to see the price range.
 7. As a returnign user, I want to know the opening times.
 8. As a returning user, I want to find the gym on social media.
-9. As a returning user, I want to get directions to the gym.
 
 #### Site Owner 
+9. As the site owner, I want to get directions to the gym.
 10. As the site owner, I want users to see the programs we offer.
 11. As the site owner, I want user to see that the opening hours are flexible.
 12. As the site owner, I want users to get to know about Gym Stars.
@@ -401,7 +401,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/social-media.png">
 </details>
 
-9. As a returning user, I want to get directions to the gym.
+9. As the site owner, I want to get directions to the gym.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -487,6 +487,7 @@ All the photos used are from https://www.pexels.com/
 - I watched videos by Kevin Powell on YouTube about media query.
 - I got inspired by the Love Running Project about the round images on the home page and the about page.
 - I utilized the website w3schools.com for the style of the contact form.
+- I got the supported by Student support on the media query.
 
 ## Acknowledgements
 I would like to take the opportunity to thank:
