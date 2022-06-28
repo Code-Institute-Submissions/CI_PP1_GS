@@ -71,7 +71,7 @@
 
 ### User Stories
 
-#### First-time User 
+#### New User 
 1. As a new user, I want to know where the gym is lokated.
 2. As a new user, I want to know the price range.
 3. As a new user, I want to know about the opening hours.
@@ -83,7 +83,7 @@
 7. As a returnign user, I want to know the opening times.
 8. As a returning user, I want to find the gym on social media.
 
-#### Site Owner 
+#### Business Owner 
 9. As the business owner, I want to get directions to the gym.
 10. As the business owner, I want users to see the programs we offer.
 11. As the business owner, I want user to see that the opening hours are flexible.
@@ -319,7 +319,7 @@ The website was tested on the following browsers:
 
 ### Testing user stories
 
-1. As a first time user, I want to know where the gym is located
+1. As a fnew user, I want to know where the gym is located
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -329,7 +329,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/navigate-map.png">
 </details>
 
-2. As a first time user, I want to know the price range
+2. As a new user, I want to know the price range
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -339,7 +339,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/price-range.png">
 </details>
 
-3. As a first time user, I want to know more about the opening hours
+3. As a new user, I want to know more about the opening hours
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -349,7 +349,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/opening-hours.png">
 </details>
 
-4. As a first time user, I want to know what services the gym offers.
+4. As a new user, I want to know what services the gym offers.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -359,7 +359,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/offering.png">
 </details>
 
-5. As a first time user, I want to get in touch with the gym about the programmes.
+5. As a new user, I want to get in touch with the gym about the programmes.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -401,7 +401,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/social-media.png">
 </details>
 
-9. As the site owner, I want to get directions to the gym.
+9. As the business owner, I want to get directions to the gym.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -411,7 +411,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/navigate-map.png">
 </details>
 
-10. As the site owner, I want users to see the programmes we offer.
+10. As the business owner, I want users to see the programmes we offer.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -423,7 +423,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/programmes.png">
 </details>
 
-11. As the site owner, I want user to see that the opening hours are flexible.
+11. As the business owner, I want user to see that the opening hours are flexible.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -433,7 +433,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/opening-hours.png">
 </details>
 
-12. As the site owner, I want users to get to know about Gym Stars.
+12. As the business owner, I want users to get to know about Gym Stars.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -443,7 +443,7 @@ The website was tested on the following browsers:
 <img src="./docs/testing-user-stories/about.png">
 </details>
 
-13. As the site owner, I want the users to be able to contact us.
+13. As the business owner, I want the users to be able to contact us.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
