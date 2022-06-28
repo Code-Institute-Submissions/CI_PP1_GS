@@ -192,32 +192,37 @@ I have added the noopener value to all links for a safer navigation.
  
 - __Programmes Page__
  
-This section is to give to the user navigating on the Gym Stars website an insight of whom could be a the potential clients and showing the four different programmes available.
+* This section is to give to the user navigating on the Gym Stars website an insight of whom could be a the potential clients and showing the four different programmes available.
 When hovering on the images showing the different programmes, the images zooms out to give to the user a better sight of the image itself. 
+* User stories covered: 2, 4, 10
  
 ![Programmes](./docs/features/programmes.png)
  
 - __Prices__
  
-There are three different prices according to the length of the subscription to give to the user different choices.
+* There are three different prices according to the length of the subscription to give to the user different choices.
+* User stories covered: 2, 6
  
 ![Prices](./docs/features/prices.png)
  
 - __Contact button__
  
-I placed a button to direct the user to the contact page to having the user to contact us to be adviced about the programmes and the intake prosiges.
+* I placed a button to direct the user to the contact page to having the user to contact us to be adviced about the programmes and the intake prosiges.
+* User stories covered: 5, 13
  
 ![Contact button](./docs/features/link-contact.png)
  
 - __About Page__
  
-The about  page gives the user a little bit more information about the inclusive values of Gym Stars.
+* The about  page gives the user a little bit more information about the inclusive values of Gym Stars.
+* User stories covered: 12
  
 ![About](./docs/features/about.png)
  
 - __Contact Page__
  
-The contact page wants to give the user the chance to get in touch with the personal trainers in order to choose the workout programme that best suits the new potential client and to send to the user  the information about the intake.
+* The contact page wants to give the user the chance to get in touch with the personal trainers in order to choose the workout programme that best suits the new potential client and to send to the user  the information about the intake.
+* User stories covered: 5, 13
  
 ![Contact](./docs/features/contact-form.png)
 
