@@ -84,11 +84,11 @@
 8. As a returning user, I want to find the gym on social media.
 
 #### Site Owner 
-9. As the site owner, I want to get directions to the gym.
-10. As the site owner, I want users to see the programs we offer.
-11. As the site owner, I want user to see that the opening hours are flexible.
-12. As the site owner, I want users to get to know about Gym Stars.
-13. As the site owner, I want the users to be able to contact us.
+9. As the business owner, I want to get directions to the gym.
+10. As the business owner, I want users to see the programs we offer.
+11. As the business owner, I want user to see that the opening hours are flexible.
+12. As the business owner, I want users to get to know about Gym Stars.
+13. As the business owner, I want the users to be able to contact us.
 
 ## Design
 
