@@ -308,6 +308,7 @@ The website was tested on the following devices:
 - Iphone 7
 - Iphone 13 Pro
 - Samsuns S20 Ultra
+
 In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
 ### Browser compatability
